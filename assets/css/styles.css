@@ -398,6 +398,13 @@ margin-bottom: var(--mb-3);
   font-weight: vari(--font-medium);
 }
 
+.qualification__area2{
+  font-size: var(--smaller-font-size);
+  color: var(--first-color-light);
+  margin-bottom: var(--mb-1);
+  font-weight: vari(--font-medium);
+}
+
 .qualification__icon, .qualification__work{
   font-size: var(--smaller-font-size);
   color: var(--first-color-light);
@@ -695,5 +702,4 @@ justify-self: center;
       column-gap: 6rem;
     }
   }
-
 }
